@@ -5,8 +5,8 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：22 
-* 手 机：15201337965 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;                           邮 箱：892894357@qq.com    
-* 专 业：信息安全 &emsp;&emsp;&emsp;&emsp;&emsp;                                           岗 位：web前端工程师
+* 手 机：15201337965 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：892894357@qq.com    
+* 专 业：信息安全 &emsp;&emsp;&emsp;&emsp;&emsp;岗 位：web前端工程师
 
 ## 工作及教育经历
            
